@@ -1,3 +1,5 @@
+## Etapas de desenvolvimento:
+
 - [ ] Header:
   - [ ] Logo;
   - [ ] Links;
@@ -99,7 +101,7 @@
   - [ ] Background;
   - [ ] Tamanho da fonte;
   - [ ] Cor;
-  
+
 - [ ] Footer:
   - [ ] Background;
   - [ ] Logo;
