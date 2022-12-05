@@ -56,16 +56,16 @@
     - [ ] Tamanho das fontes;
     - [ ] Cor;
   - [ ] Input:
-  - [ ] Tamanho;
-  - [ ] Borda;
+    - [ ] Tamanho;
+    - [ ] Borda;
   - [ ] Botão:
     - [ ] Tamanho;
     - [ ] Background;
     - [ ] Tamanho da fonte;
     - [ ] Cor;
   - [ ] Imagem:
-  - [ ] Dimensionar;
-  - [ ] Posicionar;
+    - [ ] Dimensionar;
+    - [ ] Posicionar;
 
 - [ ] Section 02:
   - [ ] Background;
@@ -88,19 +88,19 @@
     - [ ] Dimensionar;
     - [ ] Posicionar;
 
-  - [ ] Barra de ação:
-    - [ ] Background;
-    - [ ] Textos:
-    - [ ] Tamanho das fontes:
-      - [ ] Cor;
-    - [ ] Input:
+- [ ] Barra de ação:
+  - [ ] Background;
+  - [ ] Textos:
+    - [ ] Tamanho das fontes;
+    - [ ] Cor;
+  - [ ] Input:
     - [ ] Tamanho;
     - [ ] Borda;
   - [ ] Botão:
-  - [ ] Tamanho;
-  - [ ] Background;
-  - [ ] Tamanho da fonte;
-  - [ ] Cor;
+    - [ ] Tamanho;
+    - [ ] Background;
+    - [ ] Tamanho da fonte;
+    - [ ] Cor;
 
 - [ ] Footer:
   - [ ] Background;

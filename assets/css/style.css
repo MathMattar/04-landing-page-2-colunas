@@ -1,1 +1,207 @@
+html {
+    /* font-family: 'Open Sans', sans-serif;s Títulos - Chamadas de ação - Navegação */
+    /* font-family: 'Raleway', sans-serif;  Conteúdo */
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.logo {}
+
+header nav {
+    font-family: 'Raleway', sans-serif;
+}
+
+main {}
+
+.container-01 {}
+
+.img-01 {
+    max-width: 100vw;
+}
+
+.presentation {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.presentation h1 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.presentation p {
+    font-weight: 700;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+.call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.call-to-action input {
+    width: 80vw;
+    height: 3rem;
+    border: .1rem solid black;
+    border-radius: .25rem;
+    margin: 1rem 0;
+}
+
+.call-to-action button {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    color: white;
+    width: 80vw;
+    height: 3rem;
+    background-color: hsl(224, 93%, 58%);
+    border: none;
+    border-radius: .25rem;
+}
+
+.backgroung-curve {
+    display: block;
+}
+
+.section-02 {
+    background-color: hsl(240, 75%, 98%);
+}
+
+.img-02 {
+    max-width: 100vw;
+}
+
+.advertising {
+    text-align: center;
+}
+
+.advertising h1 {
+    font-size: 1.6rem;
+    padding: 1rem;
+}
+
+.advertising p {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+.advertising a {
+    font-size: 1.2rem;
+    color: hsl(170, 45%, 43%);
+}
+
+.arrow {}
+
+.testimonial {
+    background-image: url(../../assets/images/icon-quotes.svg);
+    background-repeat: no-repeat;
+    background-position: 2rem 1rem;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 80%;
+    padding: 2rem;
+    margin: 1rem auto;
+    box-shadow: 0 0 .5rem .25rem black;
+}
+
+.testimonial p {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.avatar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+}
+
+.name-position {
+    display: flex;
+    flex-direction: column;
+}
+
+.name-position h1 {
+    font-size: 1.2rem;
+}
+
+.name-position p {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.picture {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 3rem;
+    max-width: 100%;
+    display: block;
+}
+
+.section-03 {
+    background-color: hsl(238, 22%, 44%);
+    padding: 3rem 2rem;
+}
+
+.call-to-sale {
+    text-align: center;
+}
+
+.call-to-sale h1 {
+    font-size: 1.6rem;
+    color: #fff;
+    padding: 1rem;
+}
+
+.call-to-sale p {
+    font-size: 1.2rem;
+    color: #fff;
+    padding: 1rem;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(243, 87%, 12%);
+    padding: 1rem;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer nav {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.logo-footer{
+    width: 20rem;
+    padding: 1rem;
+}
+
+.phone, .email{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+}
 
