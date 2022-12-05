@@ -2,7 +2,8 @@
 
 - [ ] Header:
   - [ ] Logo;
-  - [ ] Links;
+  - [ ] Menu de navegação:
+    - [ ] Links;
 
 - [ ] Section 01:
   - [ ] Titulo;
@@ -15,20 +16,18 @@
   - [ ] Titulo;
   - [ ] Conteudo;
   - [ ] Link;
-
-- [ ] Testemunho:
-  - [ ] Imagem background;
-  - [ ] Texto;
-  - [ ] Foto;
-  - [ ] Nome;
-  - [ ] Cargo;
-  - [ ] Imagem;
-
-- [ ] Barra de ação:
-  - [ ] Titulo;
-  - [ ] Conteúdo;
-  - [ ] Input email;
-  - [ ] Botão;
+  - [ ] Testemunho:
+    - [ ] Imagem background;
+    - [ ] Texto;
+    - [ ] Foto;
+    - [ ] Nome;
+    - [ ] Cargo;
+    - [ ] Imagem;
+  - [ ] Barra de ação:
+    - [ ] Titulo;
+    - [ ] Conteúdo;
+    - [ ] Input email;
+    - [ ] Botão;
 
 - [ ] Footer:
   - [ ] Logo;
