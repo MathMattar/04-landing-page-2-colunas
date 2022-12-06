@@ -1,40 +1,6 @@
 ## Etapas de desenvolvimento:
 
-- [x] Header:
-  - [x] Logo;
-  - [x] Menu de navegação:
-    - [x] Links;
-
-- [x] Section 01:
-  - [x] Título;
-  - [x] Conteúdo;
-  - [x] Input de email;
-  - [x] Botão;
-  - [x] Imagem;
-
-- [x] Section 02:
-  - [x] Título;
-  - [x] Conteúdo;
-  - [x] Link;
-  - [x] Testemunho:
-    - [x] Imagem background;
-    - [x] Texto;
-    - [x] Foto;
-    - [x] Nome;
-    - [x] Cargo;
-    - [x] Imagem;
-  - [x] Barra de ação:
-    - [x] Título;
-    - [x] Conteúdo;
-    - [x] Input email;
-    - [x] Botão;
-
-- [x] Footer:
-  - [ ] Logo;
-  - [x] Telefone;
-  - [x] Email;
-  - [x] Links;
-  - [ ] Redes sociais.
+## - [x] HTML 
 
 ## CSS:
 - [x] Configurar:
@@ -114,4 +80,5 @@
 - [ ] Fazer menu hambúrguer;
 
 
- ### Mobile first: Em execução
+ ### Mobile first: Concluído
+ ### Desktop: Em execução
