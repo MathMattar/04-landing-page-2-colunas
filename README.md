@@ -1,45 +1,45 @@
 ## Etapas de desenvolvimento:
 
-- [ ] Header:
+- [x] Header:
+  - [x] Logo;
+  - [x] Menu de navegação:
+    - [x] Links;
+
+- [x] Section 01:
+  - [x] Título;
+  - [x] Conteúdo;
+  - [x] Input de email;
+  - [x] Botão;
+  - [x] Imagem;
+
+- [x] Section 02:
+  - [x] Título;
+  - [x] Conteúdo;
+  - [x] Link;
+  - [x] Testemunho:
+    - [x] Imagem background;
+    - [x] Texto;
+    - [x] Foto;
+    - [x] Nome;
+    - [x] Cargo;
+    - [x] Imagem;
+  - [x] Barra de ação:
+    - [x] Título;
+    - [x] Conteúdo;
+    - [x] Input email;
+    - [x] Botão;
+
+- [x] Footer:
   - [ ] Logo;
-  - [ ] Menu de navegação:
-    - [ ] Links;
-
-- [ ] Section 01:
-  - [ ] Titulo;
-  - [ ] Conteúdo;
-  - [ ] Input de email;
-  - [ ] Botão;
-  - [ ] Imagem;
-
-- [ ] Section 02:
-  - [ ] Titulo;
-  - [ ] Conteudo;
-  - [ ] Link;
-  - [ ] Testemunho:
-    - [ ] Imagem background;
-    - [ ] Texto;
-    - [ ] Foto;
-    - [ ] Nome;
-    - [ ] Cargo;
-    - [ ] Imagem;
-  - [ ] Barra de ação:
-    - [ ] Titulo;
-    - [ ] Conteúdo;
-    - [ ] Input email;
-    - [ ] Botão;
-
-- [ ] Footer:
-  - [ ] Logo;
-  - [ ] Telefone;
-  - [ ] Email;
-  - [ ] Links;
+  - [x] Telefone;
+  - [x] Email;
+  - [x] Links;
   - [ ] Redes sociais.
 
 ## CSS:
-- [ ] Configurar:
-  - [ ] Fonte;
-  - [ ] Tamanho da fonte padrão;
+- [x] Configurar:
+  - [x] Fonte;
+  - [x] Tamanho da fonte padrão;
 
 - [ ] Header:
   - [ ] Background;
