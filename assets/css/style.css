@@ -1,10 +1,12 @@
 html {
-    font-family: 'Open Sans', sans-serif; /* Conteúdo */
-    /* font-family: 'Raleway', sans-serif;  Títulos - Chamadas de ação - Navegação */ 
+    font-family: 'Open Sans', sans-serif;
+    /* Conteúdo */
+    /* font-family: 'Raleway', sans-serif;  Títulos - Chamadas de ação - Navegação */
     font-size: 62.5%;
     box-sizing: border-box;
 }
 
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx header xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
 
 header {
     display: flex;
@@ -86,9 +88,13 @@ header nav a {
 
 /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx section 02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
 
-.backgroung-curve {
+.backgroung-curve-mobile {
     display: block;
     margin: 8.8rem 0 0;
+}
+
+.background-curve-desktop {
+    display: none;
 }
 
 .container-02 {
@@ -128,7 +134,8 @@ header nav a {
     color: hsl(170, 45%, 43%);
 }
 
-.advertising a, .arrow {
+.advertising a,
+.arrow {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -213,10 +220,10 @@ header nav a {
     font-size: 1.4rem;
     line-height: 1.5;
     color: #fff;
-    padding: 1rem 2.5rem 2rem ;
+    padding: 1rem 2.5rem 2rem;
 }
 
-#input-email-2{
+#input-email-2 {
     width: 52vw;
     height: 3rem;
     font-size: 1rem;
@@ -226,7 +233,7 @@ header nav a {
     border-radius: .25rem;
 }
 
-#btn-submit-2{
+#btn-submit-2 {
     font-family: 'Raleway', sans-serif;
     font-size: 1rem;
     font-weight: 400;
@@ -245,11 +252,12 @@ footer {
     padding: 3rem;
 }
 
-.logo-footer{
+.logo-footer {
     padding: 3.6rem 0 1rem;
 }
 
-.phone, .email{
+.phone,
+.email {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -258,11 +266,14 @@ footer {
     text-decoration: none;
 }
 
-.icon-phone, .icon-email{
+.icon-phone,
+.icon-email {
     padding: 1rem 2rem 1rem 0;
 }
 
-.contact, .about, .rules{
+.contact,
+.about,
+.rules {
     display: flex;
     flex-direction: column;
     padding: 2rem 0;
@@ -275,14 +286,217 @@ footer nav a {
     line-height: 2.2;
 }
 
-.media{
+.media {
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-.social-media{
+.social-media {
     width: 2.5rem;
     padding: 1rem 1rem;
 }
 
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx media query xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+@media only screen and (min-width: 1400px) {
+
+    header {
+        margin: 6rem 8rem;
+    }
+
+    .logo {
+        width: 18rem;
+    }
+
+    header nav a {
+        font-size: 1.6rem;
+        padding: 0 0 0 6rem;
+    }
+
+    /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx section 01 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+    .container-01 {
+        flex-direction: row-reverse;
+        padding: 0 8rem;
+    }
+
+    .img-01 {
+        max-width: 50%;
+    }
+
+    .col-01 {
+        max-width: 50%;
+    }
+
+    .presentation {
+        text-align: left;
+        padding: 0 4rem 0 0;
+        margin: 0;
+        max-width: 100%;
+    }
+
+    .presentation h1 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 4.2rem;
+        margin: 0 0 2.5rem;
+    }
+
+    .presentation p {
+        font-size: 1.8rem;
+        padding: 0;
+        margin: 0 0 3rem;
+    }
+
+    .call-to-action {
+        flex-direction: row;
+        margin: 0;
+        padding: 0;
+    }
+
+    #input-email {
+        width: 50%;
+        max-width: 50%;
+        margin: 0 1.5rem 0 0;
+        padding: 0;
+    }
+
+    #btn-submit {
+        width: 31.25%;
+        max-width: 50%;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx section 02 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+    .backgroung-curve-mobile {
+        display: none;
+    }
+
+    .background-curve-desktop {
+        margin: 16rem 0 0;
+        display: block;
+    }
+
+    .container-02 {
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        padding: 0 8rem 10.6rem;
+    }
+
+    .img-02 {
+        width: 42.2%;
+
+    }
+
+    .col-01-row-02 {
+        width: 66rem;
+    }
+
+    .advertising {
+        padding: 0;
+        margin: 0;
+    }
+
+    .advertising h1 {
+        font-size: 4.06rem;
+        text-align: start;
+        margin: 0 0 4.25rem;
+    }
+
+    .advertising p {
+        font-size: 1.6rem;
+        margin: 0 14rem 2.2rem 0;
+        padding: 0;
+    }
+
+    .advertising a {
+        padding: 0;
+        justify-content: start;
+        margin: 0 0 4.6rem;
+    }
+
+    /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx testimonial xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+    .testimonial {
+        box-sizing: border-box;
+        max-width: 54%;
+        background-size: 1.8rem;
+        background-position: 3rem 2.5rem;
+        margin: 0;
+        padding: 5rem 3rem 2.6rem;
+    }
+
+    .testimonial p {
+        font-size: 1.4rem;
+    }
+
+    .avatar {
+        padding: 2.4rem 0 0 0;
+    }
+
+    .picture {
+        width: 3.2rem;
+    }
+
+    .name-position h1 {
+        font-size: 1.26rem;
+    }
+
+    .name-position p {
+        font-size: .9rem;
+    }
+
+    /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx section 03 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+    .container-03 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 11.2rem 12rem 8.8rem 8rem;
+    }
+
+    .call-to-sale {
+        text-align: start;
+        width: 51.6rem;
+        max-width: 50vw;
+    }
+
+    .call-to-sale h1 {
+        font-size: 3rem;
+        padding: 0 0 1.3rem;
+    }
+
+
+    .call-to-sale p {
+        font-size: 1.64rem;
+        padding: 1.3rem 0 0 0;
+    }
+
+    .call-to-action-free {
+        flex-direction: column;
+        width: 48rem;
+    }
+    
+    #input-email-2 {
+        font-size: 1.2rem;
+        width: 43.6rem;
+        margin: 0;
+        padding: .9rem 2.2rem;
+        margin: 0 0 1.6rem;
+    }
+
+    #btn-submit-2 {
+        font-size: 1.4rem;
+        font-weight: 700;
+        width: 20rem;
+        height: 4.8rem;
+        padding: 0;
+    }
+
+    /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx footer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+
+}
