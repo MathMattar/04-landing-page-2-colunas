@@ -1,6 +1,6 @@
 ## Etapas de desenvolvimento:
 
-## - [x] HTML 
+- [x] HTML 
 
 ## CSS:
 - [x] Configurar:
@@ -8,7 +8,7 @@
   - [x] Tamanho da fonte padrão;
 
 - [ ] Header:
-  - [ ] Background;
+  - [x] Background;
   - [ ] Dimensionar;
   - [ ] Posicionar;
 
@@ -16,7 +16,7 @@
   - [ ] Grid;
 
 - [ ] Section 01:
-  - [ ] Background;
+  - [x] Background;
   - [ ] Textos:
     - [ ] Tamanho das fontes;
     - [ ] Cor;
@@ -25,7 +25,7 @@
     - [ ] Borda;
   - [ ] Botão:
     - [ ] Tamanho;
-    - [ ] Background;
+    - [x] Background;
     - [ ] Tamanho da fonte;
     - [ ] Cor;
   - [ ] Imagem:
@@ -33,14 +33,14 @@
     - [ ] Posicionar;
 
 - [ ] Section 02:
-  - [ ] Background;
+  - [x] Background;
   - [ ] Textos:
     - [ ] Tamanho das fontes;
     - [ ] Cor;
   - [ ] Link:
     - [ ] Estilizar;
   - [ ] Testemunho:
-    - [ ] Background;
+    - [x] Background;
     - [ ] Cor;
     - [ ] Imagem;
     - [ ] Texto;
@@ -54,7 +54,7 @@
     - [ ] Posicionar;
 
 - [ ] Barra de ação:
-  - [ ] Background;
+  - [x] Background;
   - [ ] Textos:
     - [ ] Tamanho das fontes;
     - [ ] Cor;
@@ -63,12 +63,12 @@
     - [ ] Borda;
   - [ ] Botão:
     - [ ] Tamanho;
-    - [ ] Background;
+    - [x] Background;
     - [ ] Tamanho da fonte;
     - [ ] Cor;
 
 - [ ] Footer:
-  - [ ] Background;
+  - [x] Background;
   - [ ] Logo;
   - [ ] Contatos:
     - [ ] Imagens;
