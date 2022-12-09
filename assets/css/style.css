@@ -302,11 +302,11 @@ footer nav a {
 @media only screen and (min-width: 1400px) {
 
     header {
-        margin: 6rem 8rem;
+        margin: 6.5rem 8rem 8.5rem;
     }
 
     .logo {
-        width: 18rem;
+        width: 16.6rem;
     }
 
     header nav a {
@@ -479,7 +479,7 @@ footer nav a {
         flex-direction: column;
         width: 48rem;
     }
-    
+
     #input-email-2 {
         font-size: 1.2rem;
         width: 43.6rem;
@@ -497,6 +497,57 @@ footer nav a {
     }
 
     /* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx footer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+    footer {
+        padding: 10.6rem 0 5.125rem 8rem;
+    }
+
+    .logo-footer {
+        width: 18.4rem;
+        padding: 0 0 1.6rem;
+    }
+
+    .container-contact {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 77.08vw;
+    }
+
+    .contact, .about, .rules{
+        padding: 0;
+    }
+    
+    .phone p, .email p {
+        font-size: 1.6rem;
+        padding: 1rem 0 1rem 2rem;
+    }
+
+    .icon-phone,
+    .icon-email {
+        width: 2rem;
+        padding: 0;
+    }
+
+    footer nav a {
+        font-size: 1.6rem;
+        line-height: normal;
+        padding: 1rem 0 1rem 0;
+
+    }
+
+    .media {
+        gap: 1.2rem;
+    }
+
+    .social-media {
+        width: 3rem;
+        padding: 0;
+    }
+
+
+
+
 
 
 }
