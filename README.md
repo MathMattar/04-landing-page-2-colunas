@@ -27,13 +27,13 @@ Os usuários devem ser capazes de:
 ### Screenshot
 
 <p align="center">
-    <img width="375px" src="/presentation/mobile.png"></img>
+    <img width="375px" src="assets/presentation/mobile.png"></img>
 </p>
 
 ------
 
 <p align="center">
-    <img width="1440px" src="/presentation/desktop.png"></img>
+    <img width="1440px" src="assets/presentation/desktop.png"></img>
 </p>
 
 ### Link: https://mathmattar.github.io/FAQ-accordion-card/
