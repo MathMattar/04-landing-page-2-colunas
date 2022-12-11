@@ -36,8 +36,7 @@ Os usuários devem ser capazes de:
     <img width="1440px" src="assets/presentation/desktop.png"></img>
 </p>
 
-### Link: https://mathmattar.github.io/FAQ-accordion-card/
-
+### Link: https://mathmattar.github.io/landing-page-2-colunas/
 ## Processo
 
 ### Construido com
