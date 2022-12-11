@@ -16,7 +16,7 @@ header {
 }
 
 .logo {
-    width: 8rem;
+    width: 21.3vw;
 }
 
 header nav a {
@@ -137,6 +137,7 @@ header nav a {
 }
 
 .arrow {
+    width: 2.25rem;
     padding: 0 0 0 0.6rem;
 }
 
@@ -194,7 +195,7 @@ hr {
 .picture {
     border-radius: 50%;
     overflow: hidden;
-    width: 2.6rem;
+    width: 6.95vw;
     max-width: 100%;
     display: block;
     margin-right: 1rem;
@@ -264,7 +265,7 @@ footer {
 }
 
 .logo-footer {
-    width: 17.6rem;
+    width: 46.9vw;
     padding: 2.5rem 0 4.2rem;
 }
 
@@ -281,7 +282,7 @@ footer {
 
 .icon-phone,
 .icon-email {
-    width: 1.8rem;
+    width: 4.8vw;
     padding: 0 2rem 0 0;
 }
 
@@ -313,7 +314,7 @@ footer nav a {
 }
 
 .social-media {
-    width: 2.5rem;
+    width: 6.7vw;
     padding: .2rem 1rem 0;
 }
 
@@ -326,7 +327,7 @@ footer nav a {
     }
 
     .logo {
-        width: 16.6rem;
+        width: 11.53vw;
     }
 
     header nav a {
@@ -356,7 +357,7 @@ footer nav a {
         text-align: left;
         padding: 0;
         margin: 0;
-        max-width: 100%;
+        max-width: 100vw;
     }
 
     .presentation h1 {
@@ -399,6 +400,7 @@ footer nav a {
     }
 
     .background-curve-desktop {
+        width: 100vw;
         margin: 16.8rem 0 0;
         display: block;
     }
@@ -468,7 +470,7 @@ footer nav a {
     }
 
     .picture {
-        width: 3.2rem;
+        width: 2.25vw;
     }
 
     .name-position h1 {
@@ -492,7 +494,7 @@ footer nav a {
 
     .call-to-sale {
         text-align: start;
-        width: 51.6rem;
+        width: 35.85vw;
         max-width: 50vw;
     }
 
@@ -501,7 +503,6 @@ footer nav a {
         padding: 0 0 1.2rem;
     }
 
-
     .call-to-sale p {
         font-size: 1.64rem;
         padding: 1.2rem 0 0 0;
@@ -509,13 +510,12 @@ footer nav a {
 
     .call-to-action-free {
         flex-direction: column;
-        width: 48rem;
+        width: 33.35vw;
     }
 
     #input-email-2 {
         font-size: 1.2rem;
-        width: 43.6rem;
-        margin: 0;
+        width: 30.28vw;
         padding: .9rem 2.2rem;
         margin: .4rem 0 1.6rem;
     }
@@ -523,7 +523,7 @@ footer nav a {
     #btn-submit-2 {
         font-size: 1.4rem;
         font-weight: 700;
-        width: 20rem;
+        width: 14vw;
         height: 4.8rem;
         padding: 0;
     }
@@ -535,7 +535,7 @@ footer nav a {
     }
 
     .logo-footer {
-        width: 17.6rem;
+        width: 12.25vw;
         padding: 0 0 1.6rem;
     }
 
@@ -576,7 +576,53 @@ footer nav a {
     }
 
     .social-media {
-        width: 3rem;
+        width: 2.1vw;
         padding: 0;
+    }
+}
+
+@media only screen and (min-width: 1900px) {
+
+    .container-01,
+    .container-02,
+    .container-03,
+    footer {
+        padding-right: 12rem;
+        padding-left: 12rem;
+    }
+
+    hr {
+        width: 10vw;
+    }
+}
+
+@media only screen and (min-width: 3400px) {
+
+    html {
+        font-size: 26px;
+    }
+
+    .container-01,
+    .container-02,
+    .container-03 {
+        padding-right: 10rem;
+        padding-left: 10rem;
+        justify-content: space-between;
+    }
+
+    .img-01,
+    .col-01
+    .img-02
+    .col-01-row-02 {
+        width: 50%;
+    }
+
+    .arrow {
+        width: 2.5rem;
+    }
+
+    footer {
+        padding-right: 10rem;
+        padding-left: 10rem;
     }
 }
