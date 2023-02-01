@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo landing page with two column layout
 
-Esta é uma solução para o desafio do componente do [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Os desafios do Fronted Mentor ajudam você a melhorar suas habilidades de codificacão criando projetos realistas.
+Esta é uma solução para o desafio do componente do [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Os desafios do Fronted Mentor ajudam você a melhorar suas habilidades de codificacão criando projetos realistas.
 
 ## Sumário
 
