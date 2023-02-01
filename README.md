@@ -36,7 +36,7 @@ Os usuários devem ser capazes de:
     <img width="1440px" src="./assets/presentation/desktop.png"></img>
 </p>
 
-### Link: <https://mathmattar.github.io/FAQ-accordion-card/>
+### Link: [Fylo landing page](https://mathmattar.github.io/04-landing-page-2-colunas/)
 
 ## Processo
 
