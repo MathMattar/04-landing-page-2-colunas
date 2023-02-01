@@ -27,28 +27,17 @@ Os usuários devem ser capazes de:
 ### Screenshot
 
 <p align="center">
-<<<<<<< HEAD
     <img width="375px" src="./assets/presentation/mobile.png"></img>
-=======
-    <img width="375px" src="assets/presentation/mobile.png"></img>
->>>>>>> 05a4084eeb95647b40a5ab42cd72080b5c48a7fc
 </p>
 
 ------
 
 <p align="center">
-<<<<<<< HEAD
     <img width="1440px" src="./assets/presentation/desktop.png"></img>
 </p>
 
 ### Link: <https://mathmattar.github.io/FAQ-accordion-card/>
 
-=======
-    <img width="1440px" src="assets/presentation/desktop.png"></img>
-</p>
-
-### Link: https://mathmattar.github.io/landing-page-2-colunas/
->>>>>>> 05a4084eeb95647b40a5ab42cd72080b5c48a7fc
 ## Processo
 
 ### Construido com
